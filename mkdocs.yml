@@ -2,4 +2,5 @@ site_name: 甲五&A6的物理充电站
 nav:
   - Home: index.md
   - About: about.md
+  - 平抛运动: 平抛运动.md
 # theme: readthedocs
